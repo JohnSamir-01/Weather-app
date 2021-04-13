@@ -11,7 +11,7 @@ The following project was created to test out some basic understandings of java-
 -install cors and bodyparser
 - run the server then open it on your browser
 
-###Project Content:
+### Project Content:
 The project contains the following features:
 - Fully responsive design
 - fetching data from an external api
