@@ -5,10 +5,10 @@
 The following project was created to test out some basic understandings of java-script ,node.js , express and api creation. 
 
 ### How to use:
--Open server.js
--install node.js
--install epress
--install cors and bodyparser
+- Open server.js
+- install node.js
+- install epress
+- install cors and bodyparser
 - run the server then open it on your browser
 
 ### Project Content:
