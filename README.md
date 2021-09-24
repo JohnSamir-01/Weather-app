@@ -7,7 +7,7 @@ The following project was created to test out some basic understandings of java-
 ### How to use:
 - Open server.js
 - install node.js
-- install epress
+- install express
 - install cors and bodyparser
 - run the server then open it on your browser
 
